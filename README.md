@@ -1,2 +1,2 @@
 # LiveNewsWebsite
-A website which can be used to add, edit, delete news using HTML, CSS, Bootstrap and PHP
+A website for live news where an admin can also add, delete or edit news from the admin panel.
